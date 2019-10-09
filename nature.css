@@ -1,0 +1,8 @@
+:root{
+    --mbgc: tan;
+    --main-textColor: purple;
+ }
+ h1{
+    background-color: var(--mbgc);
+    color: var(--main-textColor, purple);
+ }

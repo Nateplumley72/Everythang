@@ -1,0 +1,32 @@
+h1 {
+    color: blueviolet;
+    border-style: double
+    
+}
+body{
+    background-color: red
+}
+h1 {
+    border-color: blue
+}
+.body:nth-child(odd){
+    background: black
+}
+.body:nth-child(even){
+   background: blueviolet
+}
+
+a:hover {
+   background-color: aqua;
+   color: gold
+}
+
+a:active{
+   background-color: blueviolet;
+   color: aquamarine
+}
+
+a:visited{ 
+   background-color: black
+   color: rebeccapurple
+}
